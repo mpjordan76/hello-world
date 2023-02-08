@@ -10,3 +10,4 @@ So far, I've practiced:
 - stashing
 - connecting to github
 - pushing
+- pulling
